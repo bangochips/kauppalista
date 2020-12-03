@@ -1,2 +1,2 @@
 # kauppalista
-Oon hajamielinen tarviin kauppalistan
+tarviin kauppalistan
